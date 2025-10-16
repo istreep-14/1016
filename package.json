@@ -1,0 +1,15 @@
+{
+  "name": "lichess-game-scraper",
+  "version": "1.0.0",
+  "description": "Puppeteer-based Lichess game scraper for Google Cloud Functions",
+  "main": "index.js",
+  "engines": {
+    "node": "18"
+  },
+  "dependencies": {
+    "puppeteer": "^21.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  }
+}
